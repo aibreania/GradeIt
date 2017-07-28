@@ -1,2 +1,2 @@
 # Grade It!
-This is a single page application built with React, Redux and its npm plugins.
+This is a Yelp-like single page application built with React, Redux and its npm plugins.
